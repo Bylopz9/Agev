@@ -3906,13 +3906,14 @@ input, select, textarea {
 			}
 
 		}
+		}
 		.TransporteEje{
-			background-image: url(images/Transport-ejec.jpg);
+			background-image: url(../../images/Transport-ejec.jpg);
 			background-size: cover;
 			color: #ffffff;
 		}
 		.SerEntrega{
-			background-image: url(images/Entregas.jpg);
+			background-image: url(../../images/Entregas.jpg);
 			background-size: cover;
 			color: #ffffff;
 		}
@@ -3921,18 +3922,18 @@ input, select, textarea {
 			color: #000;
 		}
 		.TransTrad{
-			background-image: url(images/Transport-trad.jpg);
+			background-image: url(../../images/Transport-trad.jpg);
 			background-size: cover;
 			color: #ffffff;
 		}
 		.Alm{
-			background-image: url(images/Alm.jpg);
+			background-image: url(../../images/Alm.jpg);
 			background-size: cover;
 			color: #ffffff;
 		
 		}
 		.contac{
-			background-image: url(images/contacto.jpg);
+			background-image: url(../../images/contacto.jpg);
 			background-size: cover;
 		}
 		.AgV{
@@ -3951,4 +3952,3 @@ input, select, textarea {
 		.Gen{
 			padding-top: 100px;
 		}
-
