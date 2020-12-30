@@ -3943,6 +3943,10 @@ input, select, textarea {
 			background-image: url(../../images/contacto.jpg);
 			background-size: cover;
 		}
+		.e-comm{
+			background-image: url(../../images/e-comm.jpg);
+			background-size: cover;
+		}
 		.AgV{
 			width:180px;
 			height: 68px;
@@ -3963,4 +3967,5 @@ input, select, textarea {
 		.txt-2{
 			font-size: 1.5em;
 		}
+
 
