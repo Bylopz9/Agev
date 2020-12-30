@@ -25,7 +25,10 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	color: #ffffff;
+}
+	
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -3914,6 +3917,7 @@ input, select, textarea {
 			background-image: url(../../images/Transport-ejec.jpg);
 			background-size: cover;
 			color: #ffffff;
+			
 		}
 		.SerEntrega{
 			background-image: url(../../images/Entregas.jpg);
@@ -3921,8 +3925,8 @@ input, select, textarea {
 			color: #ffffff;
 		}
 
-		.clH1{
-			color: #000;
+		.tx-s{
+			text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;	
 		}
 		.TransTrad{
 			background-image: url(../../images/Transport-trad.jpg);
@@ -3954,5 +3958,9 @@ input, select, textarea {
 		}
 		.Gen{
 			padding-top: 100px;
+		}
+
+		.txt-2{
+			font-size: 1.5em;
 		}
 
